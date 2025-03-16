@@ -1,0 +1,5 @@
+../TouchGFX/gui/src/model/Model.cpp:10:6:bool Model::getButtonValue()	16	static
+../TouchGFX/gui/src/model/Model.cpp:19:6:void Model::toggleLED(char)	16	static
+../TouchGFX/gui/src/model/Model.cpp:26:7:float Model::getTemp()	16	static
+../TouchGFX/gui/src/model/Model.cpp:35:1:Model::Model()	16	static
+../TouchGFX/gui/src/model/Model.cpp:40:6:void Model::tick()	24	static
